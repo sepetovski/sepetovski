@@ -1,5 +1,14 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sepetovski&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sepetovski&theme=tokyonight)
+<div align="center">
+  <a>
+    <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sepetovski&theme=tokyonight" />
+  </a>
+
+  <a>
+    <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sepetovski&theme=tokyonight" />
+  </a>
+</div>
+
+
 
 <!--
 **sepetovski/sepetovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
