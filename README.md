@@ -6,6 +6,9 @@
   <a>
     <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sepetovski&theme=tokyonight" />
   </a>
+  <a href="https://leetcode.com/u/sepetovskidamjan/">
+    <img src="https://leetcard.jacoblin.cool/sepetovskidamjan?theme=dark" width="400" />
+  </a>
 </div>
 
 
